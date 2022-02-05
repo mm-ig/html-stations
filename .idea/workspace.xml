@@ -38,21 +38,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2f1ed2-fac6-4d34-9238-f491f138a540" name="デフォルト変更リスト" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/station7.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/station7.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/station8.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/station8.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/station9.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/station9.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/station10.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/station10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/station11.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/station11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/station7.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/station7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/station8.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/station8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/station9.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/station9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/screenshots/station12.spec.ts/Station12 -- クリアの文言が表示される -- before each hook (failed).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/station12.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/station12.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
     <envs>
@@ -81,11 +81,15 @@
   </component>
   <component name="JupyterTrust" id="984dc1b9-2f43-411c-8d82-0926fae2a952" />
   <component name="ProjectId" id="24M6ksOrLQNM3Zo1iF5FwherNN3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="追加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -116,7 +120,7 @@
       <workItem from="1643725241937" duration="3481000" />
       <workItem from="1643764460629" duration="144000" />
       <workItem from="1643899548705" duration="9613000" />
-      <workItem from="1644067617864" duration="3639000" />
+      <workItem from="1644067617864" duration="4131000" />
     </task>
     <servers />
   </component>
@@ -136,6 +140,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
