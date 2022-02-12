@@ -38,7 +38,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2f1ed2-fac6-4d34-9238-f491f138a540" name="デフォルト変更リスト" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cypress/screenshots/station14.spec.ts/Station14 -- フルネームのリストが表示される -- before each hook (failed).png" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/screenshots/station14.spec.ts/Station14 -- フルネームのリストが表示される -- before each hook (failed).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/station14.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/station14.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +120,9 @@
       <workItem from="1643725241937" duration="3481000" />
       <workItem from="1643764460629" duration="144000" />
       <workItem from="1643899548705" duration="9613000" />
-      <workItem from="1644067617864" duration="6991000" />
+      <workItem from="1644067617864" duration="10339000" />
+      <workItem from="1644283975257" duration="1454000" />
+      <workItem from="1644642014465" duration="4125000" />
     </task>
     <servers />
   </component>

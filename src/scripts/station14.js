@@ -13,17 +13,16 @@ function buildFullName(data) {
     // Station14の問題はこちらです。想定する答えをここを書いてください。
     // 氏名がわかるようにしつつ、半角スペースで繋いでください。
     // またtest配列のそれぞれのオブジェクトに対して、full_nameのプロパティが追加されるように実装すること
-    const dt = getData()
-    const fullname = dt.map(person => {
-        const container = {};
-        container.id = person.id;
-        container.full_name = person.family_name +" "+ person.first_name;
-        container.first_name = person.first_name;
-        container.family_name = person.family_name;
-        container.affilication = person.affilication;
-
-        return container
-    })
+    const new_ls = {
+        id : data["id"],
+        full_name : data["family_name"] + " " + data["first_name"],
+        first_name : data["first_name"],
+        family_name : data["family_name"],
+        affilication : data["affilication"],
+        is_student : data["is_student"]
+    };
+    console.log(new_ls);
+    return new_ls
 }
 
 // 出力が想定される答え
